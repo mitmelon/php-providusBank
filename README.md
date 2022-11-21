@@ -1,6 +1,6 @@
-# php-providusBank
+# php-providus-bank
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-providusBank.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-providusBank?ref=badge_shield) [![Total Downloads](http://poser.pugx.org/mitmelon/php-providusBank/downloads)](https://packagist.org/packages/mitmelon/php-providusBank) [![License](http://poser.pugx.org/mitmelon/php-providusBank/license)](https://packagist.org/packages/mitmelon/php-providusBank) [![PHP Version Require](http://poser.pugx.org/mitmelon/php-providusBank/require/php)](https://packagist.org/packages/mitmelon/php-providusBank)
+[![Total Downloads](http://poser.pugx.org/mitmelon/php-providus-bank/downloads)](https://packagist.org/packages/mitmelon/php-providus-bank) [![License](http://poser.pugx.org/mitmelon/php-providus-bank/license)](https://packagist.org/packages/mitmelon/php-providus-bank) [![PHP Version Require](http://poser.pugx.org/mitmelon/php-providus-bank/require/php)](https://packagist.org/packages/mitmelon/php-providus-bank)
 
 API for Providus Bank virtual account generation, account transfer and payment collections.
 
