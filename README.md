@@ -7,7 +7,7 @@ API for Providus Bank virtual account generation, account transfer and payment c
 ## Install:
 Use composer to install
 ```php
-composer require mitmelon/php-providusBank
+composer require mitmelon/php-providus-bank
 ```
 
 ## Payment Collection :
